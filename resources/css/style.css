@@ -1,0 +1,30 @@
+body {
+    background-color: black; 
+    text-align: center;
+    font-family: verdana;
+}
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+p {
+    color: gray;
+    font-size: 21px;
+}
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;  
+}
