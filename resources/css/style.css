@@ -23,8 +23,10 @@ p {
     text-decoration: underline;
     cursor: pointer;
 }
-
 img {
     overflow-clip-margin: content-box;
     overflow: clip;  
+}
+.footer {
+    text-align: right;
 }
